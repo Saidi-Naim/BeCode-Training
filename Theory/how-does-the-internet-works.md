@@ -22,5 +22,5 @@ When a user wants to upload an image, for example, the image file doesn’t go f
 
 Everything that happens on the internet involves packets—from web pages and digital telecommunications to emails. 
 
-![Data](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCHHfKLL0SmHtWpnoqTAhpnl_3c9R23FjQQA&usqp=CAU)
+![Packets](https://images.theconversation.com/files/144159/original/image-20161102-27243-16lfquc.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip)
 
