@@ -1,6 +1,6 @@
 ## What is The Internet ?
 
-The internet is a Connect the number of computers using that device IP address and transmits the various type of data to connect the world network. 
+The internet is a network of computers using that device IP address and transmits the various type of data to connect the world network. 
 
 The Internet is connecting the different network like academic, organization, private, public, business with the help of Fiber optic and wireless technology.
 
@@ -24,3 +24,4 @@ Everything that happens on the internet involves packets—from web pages and di
 
 ![Packets](https://images.theconversation.com/files/144159/original/image-20161102-27243-16lfquc.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip)
 
+## This Theory file has been reviewed by John
